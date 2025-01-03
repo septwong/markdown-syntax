@@ -45,6 +45,6 @@
 
 ## 联系作者
 
-如果有问题,请联系 septwong@foxmail.com
+如果有问题,请联系我 [septwong@foxmail.com](mailto:septwong@foxmail.com)。
 
 **🎉 Enjoy!**

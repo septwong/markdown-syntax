@@ -44,6 +44,5 @@ A quick reference for viewing Markdown syntax examples.
 
 ## Contact Author
 
-For any questions, please contact septwong@foxmail.com
-
+If you have any questions, please raise an issue or contact us at [septwong@foxmail.com](mailto:septwong@foxmail.com).
 **🎉 Enjoy!**

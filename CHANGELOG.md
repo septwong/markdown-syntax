@@ -1,5 +1,9 @@
 # Change Log
 
+#### `1.0.0` 2025-01-03
+
+- Optimize some files
+
 #### `0.0.8` 2024-11-01
 
 - Update some resource files

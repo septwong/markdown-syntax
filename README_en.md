@@ -7,6 +7,7 @@
 ![Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/septwong.markdown-syntax)&nbsp;
 ![Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/septwong.markdown-syntax)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/septwong/markdown-syntax/main/LICENSE)&nbsp;
+
 <!-- <a href="https://github.com/septwong/markdown-syntax">
     <img alt="markdown-syntax Repo stars" src="https://img.shields.io/github/stars/septwong/markdown-syntax">
 </a> -->
@@ -29,6 +30,7 @@ A quick reference for viewing Markdown syntax examples.
 > Recommended Markdown preview plugin: [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
 ## How to Use
+
 - **Syntax examples:**
   - Open any `.md` file, right-click to see the menu option `Open Markdown syntax examples`.
   - Press `CMD + Shift + P` (Mac) or `CTRL + Shift + P` (Windows/Linux), type and select `Markdown syntax: Open Markdown syntax examples`.
@@ -45,4 +47,5 @@ A quick reference for viewing Markdown syntax examples.
 ## Contact Author
 
 If you have any questions, please raise an issue or contact us at [septwong@foxmail.com](mailto:septwong@foxmail.com).
+
 **🎉 Enjoy!**

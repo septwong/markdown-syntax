@@ -1,4 +1,4 @@
-<img align="right" width="90px" src="https://free2.yunpng.top/2024/10/16/670f457bc5f7a.png" alt="markdown-syntax logo" />
+<img align="right" width="90px" src="https://raw.githubusercontent.com/septwong/markdown-syntax/main/assets/images/logo.png" alt="markdown-syntax logo" />
 
 # Markdown Syntax
 
@@ -40,9 +40,9 @@ A quick reference for viewing Markdown syntax examples.
 
 <!-- ### Examples
 
-![Right-click Menu](https://free2.yunpng.top/2024/10/16/670f455078df5.png)
+![Right-click Menu](https://raw.githubusercontent.com/septwong/markdown-syntax/main/assets/md_images/example1.png)
 
-![Command Input](https://free2.yunpng.top/2024/10/16/670f455076a40.png) -->
+![Command Input](https://raw.githubusercontent.com/septwong/markdown-syntax/main/assets/md_images/example2.png) -->
 
 ## Contact Author
 

@@ -1,5 +1,9 @@
 # Change Log
 
+#### `1.0.2` 2025-08-22
+
+- Fix images
+
 #### `1.0.1` 2025-07-23
 
 - Fix some bugs
